@@ -1,0 +1,44 @@
+{
+  "id": "2896395",
+  "name": "工具集",
+  "font_family": "iconfont",
+  "css_prefix_text": "",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1471594",
+      "name": "back",
+      "font_class": "icon-05",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1496251",
+      "name": "苹果",
+      "font_class": "icon-04",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7506708",
+      "name": "企业微信",
+      "font_class": "icon-03",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "18368042",
+      "name": "钉钉01",
+      "font_class": "icon-02",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "162882",
+      "name": "设置",
+      "font_class": "icon-01",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
