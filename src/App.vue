@@ -24,7 +24,9 @@ export default {
       include: [],
     };
   },
-  created() {},
+  created() {
+    this.$alert('本工具仅学习交流使用，免费，请注意软件来源。不得以任何形式牟利，请下载后24小时内删除，如有侵权，请立即联系删除。使用本软件即代表遵守法律法规。', '使用提示');
+  },
   watch: {
     $route(to, from) {
       // 如果要to(进入)的页面是需要keepAlive缓存的，把name push进include数组中

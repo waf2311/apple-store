@@ -16,6 +16,7 @@
     <div class="logs">
       <textarea readonly v-model="logText" ref="logTextarea"></textarea>
     </div>
+    <div class="tip">本工具仅学习交流使用，免费，请注意软件来源。不得以任何形式牟利，请下载后24小时内删除，如有侵权，请立即联系删除。使用本软件即代表遵守法律法规。</div>
   </div>
 </template>
 
@@ -190,5 +191,9 @@ export default {
     border-radius: 10px;
     padding: 16px;
   }
+}
+.tip {
+  text-align: center;
+  color: #999;
 }
 </style>
